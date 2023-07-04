@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>web</title>
+  <style>
+#pfp { 
+  height: 100px;
+  width: 100px;
+  border: solid 1px;
+  border-radius: 50px;
+}
+
+#mycarrd {
+  text-align: center;
+  height: 80px;
+  width: 150px;
+  border: solid 2px;
+  background-color: antiquewhite;
+  margin: auto;
+  font-family: times;
+  font-weight: lighter;
+  color: burlywood;
+}
+
+body {
+  background-color: peachpuff;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+  font-weight: lighter;
+  height: 30px;
+  width: 150px;
+  border: solid 1px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  color: moccasin;
+  font-family: serif;
+}
+
+#intro {
+  border: solid 1px;
+  margin: auto;
+  text-align: center;
+  height: 190px;
+  width: 150px;
+  background-color: white;
+  color: rosybrown;
+  font-family: serif;
+}
+
+#pfp2 {
+  height: 100px;
+  width: 100px;
+  border: solid 1px;
+  border-radius: 50px;
+}
+
+#pr {
+    border: solid 1px;
+  margin: auto;
+  text-align: center;
+  height: 20px;
+  width: 100px;
+  background-color: white;
+  color: rosybrown;
+  font-family: serif;
+}
+
+#int {
+  border: solid 1px;
+  margin: auto;
+  height: 360px;
+  width: 160px;
+  background-color: white;
+  color: rosybrown;
+  font-family: serif;
+}
+
+.soci {
+  background-color: papayawhip;
+  color: navajowhite;
+  border: solid 3px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: serif;
+  margin-left: 150px;
+}
+
+#miu {
+  border: solid 1px;
+  border-radius: 20px;
+  height: 200px;
+  width: 370px;
+}
+</style>
+</head>
+  <body>
+    <center><img src="https://pin.it/ebkW4Pe" id="pfp"></center>
+    <h1 id="mycarrd">MY WEBSITE</h1> <br />
+    <h2>ABOUT ME</h2> <br />
+    <p id="intro"> Hello, my name is Mía  and I&apos;m a 15 year old teenager who&apos;s been terminally online since age 8. I enjoy multiple interests, such as anime, reading, and... studying! </p> <br />
+    <center> <img src="https://pin.it/25CnzPn" id="pfp2"></center>	<br />
+    <h2>PRONOUNS</h2> <br />
+    <p id="pr"> she/her </p> <br />
+    <h2>INTERESTS</h2> <br />
+    <p>
+      <ul id="int">
+        <li>Musicals, such as Hamilton, Heathers, Mean Girls, etc. I also enjoy their soundtrack.</li>
+        <li>Music, like the bands Siouxsie and the Banshees and Plastique Noir.</li>
+        <li>Games like Danganronpa and the When They Cry franchise.</li>
+        <li>Chemistry and computing, but I&apos;m at like a 10th grade level.</li>
+        <li>Pet rats and their care (weird I know)</li>
+      </ul>
+    </p>
+    <h2>SOCIALS</h2> <br />
+    <a href="https://twitter.com/meggriffim?t=JRIYszAx-NAp4V7if9f8QQ&s=09"><button class="soci">Twitter!!!!</button></a> <br />
+    <a href="https://instagram.com/onsezent?igshid=NGExMmI2YTkyZg=="><button class="soci">Instagram</button></a>  <br />
+    <br />
+    <center><img src="https://pin.it/3wf58tD" id="miu"></center>
+  </body>
+</html>
